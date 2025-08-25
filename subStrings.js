@@ -48,4 +48,5 @@ const rl = readline.createInterface({
 rl.question("Escriba un mensaje...", (mensaje)=>{
     const posicion = mensaje.indexOf('error')
     console.log(`La palabra "error" se encuentra en la posicion ${posicion}`)
+    rl.close()
 })
