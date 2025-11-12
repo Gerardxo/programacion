@@ -194,5 +194,3 @@ rl.question("Ingrese cuántas horas estuvo estacionado: ", respuesta => {
 
   rl.close();
 });
-
-

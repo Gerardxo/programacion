@@ -2,20 +2,12 @@
   "name": "datos",
   "version": "1.0.0",
   "main": "ejercicios.js",
-  "type": "module",
+  "type" : "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gerardxo/programacion.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Gerardxo/programacion/issues"
-  },
-  "homepage": "https://github.com/Gerardxo/programacion#readme",
   "description": ""
 }
